@@ -83,6 +83,7 @@ Note: This changelog was automatically generated from the git log.
 
 ## New functionality
 
+- Added 'op3loader' to the scrnaseq loaders. 
 - Added `cell2location` to the `spatial_decomposition` task.
 - Added nearest-neighbor ranking matrix computation to `_utils`.
 - Datasets now store nearest-neighbor ranking matrix in `adata.obsm["X_ranking"]`.
